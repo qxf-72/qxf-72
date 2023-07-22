@@ -9,4 +9,4 @@
 
 - 💬 - Welcome to leave a message on my Github, I will reply as soon as possible.
 
-- 😄 - Welcome to visit my [leetcode homepage](https://leetcode-cn/u/qxf-u/) and [codeforces homepage](https://codeforces.com/profile/qiuxiaofeng), hoping to meet like-minded friends to brush questions together.
+- 😄 - Welcome to visit my [leetcode homepage](https://leetcode.cn/u/qxf-u/) and [codeforces homepage](https://codeforces.com/profile/qiuxiaofeng), hoping to meet like-minded friends to brush questions together.
