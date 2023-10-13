@@ -1,6 +1,6 @@
 ![](assets/Bottom_up.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&height=200&lines=%E5%8C%97%E6%B5%B7%E8%99%BD%E8%B5%8A%EF%BC%8C%E6%89%B6%E6%91%87%E5%8F%AF%E6%8E%A5%EF%BC%8C%E4%B8%9C%E9%9A%85%E5%B7%B2%E9%80%9D%EF%BC%8C%E6%A1%91%E6%A6%86%E9%9D%9E%E6%99%9A)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&center=true&vCenter=true&random=false&width=700&height=200&lines=%E5%8C%97%E6%B5%B7%E8%99%BD%E8%B5%8A%EF%BC%8C%E6%89%B6%E6%91%87%E5%8F%AF%E6%8E%A5%EF%BC%8C%E4%B8%9C%E9%9A%85%E5%B7%B2%E9%80%9D%EF%BC%8C%E6%A1%91%E6%A6%86%E9%9D%9E%E6%99%9A" alt="Typing SVG" /></a>
 
 ### 🔭 - I am in the process of refining my [repository of algorithmic contest templates](https://github.com/qxf-72/Codeforces-Cpp), as well as gradually posting some of my study notes on my Github,and in the meantime I'm actively learning about some open source software projects.
 
