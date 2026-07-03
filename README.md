@@ -16,8 +16,6 @@ multithreading, TCP/IP network programming, and backend development.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="42" height="42" /> Tech Stack
 
-<div align="center">
-
 | Category | Stack |
 |:---:|:---|
 | **Primary Languages** | [![](https://skillicons.dev/icons?i=cpp,c)](#) |
@@ -25,8 +23,6 @@ multithreading, TCP/IP network programming, and backend development.
 | **Systems & Networking** | [![](https://skillicons.dev/icons?i=linux)](#)  <br>  `POSIX` · `Multithreading` · `TCP/IP` · `Socket Programming` |
 | **Build & Debugging** | [![](https://skillicons.dev/icons?i=cmake)](#) <br> `GDB` · `Valgrind` |
 | **Development Tools** | [![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vim)](#) |
-
-</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" alt="Crown" width="42" height="42" /> Competitive Programming
 
