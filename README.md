@@ -32,17 +32,16 @@ data structures, computer systems, networking, concurrency, and debugging.
 | **Build & Debugging** | [![](https://skillicons.dev/icons?i=cmake)](#) <br> `GDB` · `Valgrind` |
 | **Development Tools** | [![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vim)](#) <br> `Git` · `GitHub` · `VS Code` · `Visual Studio` · `Vim` |
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" alt="Crown" width="42" height="42" /> Competitive Programming
+## 🏆 Competitive Programming
 
 - Lanqiao Cup C/C++ Programming Group A: National Third Prize
 - Guangdong Collegiate Programming Contest: Bronze Medal
 - LeetCode Contest Rating: 2100+
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="42" height="42" /> Currently Learning
+## 📌 Selected Work
 
-- Linux network programming and socket APIs
-- Concurrent server design
-- High-performance C++ backend development
-- Performance analysis with debugging and profiling tools
+Explore my pinned repositories for selected C++ systems and backend projects.
+
+Open to C++ backend and systems engineering opportunities.
 
 ![](assets/Bottom_down.svg)
