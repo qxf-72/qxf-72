@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <strong>C++ / Linux Backend Developer · Competitive Programmer</strong>
+  <strong>C++ / Linux Backend Developer</strong>
 </p>
 
 I'm a Jinan University graduate focused on C++ backend development,
@@ -22,15 +22,15 @@ data structures, computer systems, networking, concurrency, and debugging.
 - Multithreaded server design and backend development
 - Algorithms, data structures, and competitive programming
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="42" height="42" /> Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="35" height="35" /> Tech Stack
 
 | Category | Stack |
 |:---:|:---|
-| **Primary Languages** | [![](https://skillicons.dev/icons?i=cpp,c)](#) <br> `C++` · `C` |
-| **Also Used** | [![](https://skillicons.dev/icons?i=java,cs)](#) <br> `Java` · `C#` |
-| **Systems & Networking** | [![](https://skillicons.dev/icons?i=linux)](#)  <br>  `POSIX` · `Multithreading` · `TCP/IP` · `Socket Programming` |
+| **Primary Languages** | [![](https://skillicons.dev/icons?i=cpp,c)](#)  |
+| **Also Used** | [![](https://skillicons.dev/icons?i=java,cs,go)](#) |
+| **Systems & Networking** | [![](https://skillicons.dev/icons?i=linux,ubuntu)](#)  <br>  `POSIX` · `Multithreading` · `TCP/IP` · `Socket Programming` |
 | **Build & Debugging** | [![](https://skillicons.dev/icons?i=cmake)](#) <br> `GDB` · `Valgrind` |
-| **Development Tools** | [![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vim)](#) <br> `Git` · `GitHub` · `VS Code` · `Visual Studio` · `Vim` |
+| **Development Tools** | [![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vim,obsidian)](#) |
 
 ## 🏆 Competitive Programming
 
