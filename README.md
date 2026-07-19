@@ -26,11 +26,11 @@ data structures, computer systems, networking, concurrency, and debugging.
 
 | Category | Stack |
 |:---:|:---|
-| **Primary Languages** | [![](https://skillicons.dev/icons?i=cpp,c)](#)  |
-| **Also Used** | [![](https://skillicons.dev/icons?i=java,cs,go)](#) |
-| **Systems & Networking** | [![](https://skillicons.dev/icons?i=linux,ubuntu)](#)  <br>  `POSIX` · `Multithreading` · `TCP/IP` · `Socket Programming` |
-| **Build & Debugging** | [![](https://skillicons.dev/icons?i=cmake)](#) <br> `GDB` · `Valgrind` |
-| **Development Tools** | [![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vim,obsidian)](#) |
+| **Primary Languages** | ![](https://go-skill-icons.vercel.app/api/icons?i=cpp,c&perline=7) |
+| **Also Used** | ![](https://go-skill-icons.vercel.app/api/icons?i=java,go&perline=7) |
+| **Systems & Networking** | ![](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu&perline=7)  <br>  `POSIX` · `Multithreading` · `TCP/IP` · `Socket Programming` |
+| **Build & Debugging** | ![](https://go-skill-icons.vercel.app/api/icons?i=cmake&perline=7) <br> `GDB` · `Valgrind` |
+| **Development Tools** | ![](https://go-skill-icons.vercel.app/api/icons?i=git,github,bash,vscode,vim,docker,mysql,vmwareworkstation,wireshark&perline=7) |
 
 ## 🏆 Competitive Programming
 
