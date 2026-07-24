@@ -5,10 +5,6 @@
 </h1>
 
 <p align="center">
-  <strong>C++ / Linux Backend Developer</strong>
-</p>
-
-<p align="center">
   <a href="https://github.com/qxf-72?tab=followers">
     <img src="https://img.shields.io/github/followers/qxf-72?label=Followers&style=flat-square&logo=github" alt="GitHub followers" />
   </a>
@@ -21,6 +17,10 @@
   <a href="mailto:xiaofeng_qiu@qq.com">
     <img src="https://img.shields.io/badge/Email-xiaofeng__qiu%40qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Xiaofeng Qiu" />
   </a>
+</p>
+
+<p align="center">
+  <strong>C++ / Linux Backend Developer</strong>
 </p>
 
 <p align="center">
