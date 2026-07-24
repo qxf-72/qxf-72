@@ -24,10 +24,10 @@ I enjoy building Linux services and reusable C++ components whiledeepening my un
 
 | Category | Stack |
 |:---:|:---|
-| **Primary Languages** | ![](https://go-skill-icons.vercel.app/api/icons?i=cpp,c&perline=7) |
+| **Primary Languages** | ![](https://go-skill-icons.vercel.app/api/icons?i=cpp,c&perline=7&theme=dark) |
 | **Systems & Networking** |  `Linux` · `Ubuntu` · `POSIX` · `Multithreading` · `TCP/IP` · `Socket Programming` |
 | **Build & Debugging** | `CMake` · `GDB` · `Valgrind` |
-| **Development Tools** | ![](https://go-skill-icons.vercel.app/api/icons?i=git,github,bash,vscode,vim,docker,mysql,vmwareworkstation,wireshark&perline=9) |
+| **Development Tools** | ![](https://go-skill-icons.vercel.app/api/icons?i=git,github,bash,vscode,vim,docker,mysql,vmwareworkstation,wireshark&perline=9&theme=dark) |
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" /> Competitive Programming
 
@@ -38,5 +38,6 @@ I enjoy building Linux services and reusable C++ components whiledeepening my un
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="35" height="35" /> Contact
 
 Email: <xiaofeng_qiu@qq.com>
+Leetcode-CN: [leetcode.cn/u/qxf-u](https://leetcode.cn/u/qxf-u/)
 
 ![](assets/Bottom_down.svg)
