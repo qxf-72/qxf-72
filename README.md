@@ -9,9 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/qxf-72?tab=followers">
-    <img src="https://img.shields.io/github/followers/qxf-72?label=Followers&style=flat-square&logo=github" alt="GitHub followers" />
-  </a>
   <a href="https://github.com/qxf-72?tab=repositories">
     <img src="https://img.shields.io/github/stars/qxf-72?label=Stars&style=flat-square&logo=github" alt="GitHub stars" />
   </a>
@@ -30,6 +27,7 @@
   <img src="https://img.shields.io/badge/epoll-4B5563?style=flat-square" alt="epoll" />
   <img src="https://img.shields.io/badge/Multithreading-6B7280?style=flat-square" alt="Multithreading" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 </p>
