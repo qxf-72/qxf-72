@@ -5,6 +5,10 @@
 </h1>
 
 <p align="center">
+  <strong>C++ / Linux Backend Developer</strong>
+</p>
+
+<p align="center">
   <a href="https://github.com/qxf-72?tab=followers">
     <img src="https://img.shields.io/github/followers/qxf-72?label=Followers&style=flat-square&logo=github" alt="GitHub followers" />
   </a>
@@ -20,13 +24,12 @@
 </p>
 
 <p align="center">
-  <strong>C++ / Linux Backend Developer</strong>
-</p>
-
-<p align="center">
-  C++17 · Linux · TCP/IP · epoll · Multithreading · MySQL · Redis
-</p>
-
-<p align="center">
-  Lanqiao Cup C/C++ A — National Third Prize · Guangdong CCPC Bronze · LeetCode Contest 2100+
+  <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++17" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-0A66C2?style=flat-square" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/epoll-4B5563?style=flat-square" alt="epoll" />
+  <img src="https://img.shields.io/badge/Multithreading-6B7280?style=flat-square" alt="Multithreading" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 </p>
