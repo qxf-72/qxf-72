@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Construction%20Worker%20Medium-Light%20Skin%20Tone.png" alt="Construction Worker" width="54" height="54" />
-  Hi, I'm Xiaofeng Qiu 👋
+  Hi, I'm Felix Qiu 👋
 </h1>
 
 <p align="center">
@@ -25,5 +25,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cmake,linux,docker,git,githubactions,mysql,redis&theme=dark&perline=8" height="42" alt="C++, CMake, Linux, Docker, Git, GitHub Actions, MySQL, and Redis" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cmake,linux,docker,git,githubactions,mysql,redis&theme=light&perline=8" height="42" alt="C++, CMake, Linux, Docker, Git, GitHub Actions, MySQL, and Redis" />
 </p>
