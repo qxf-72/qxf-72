@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/qxf-72?tab=repositories">
-    <img src="https://img.shields.io/github/stars/qxf-72?label=Stars&style=flat-square&logo=github" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/qxf-72?label=Stars&style=flat-square&logo=github&color=brightgreen"" alt="GitHub stars" />
   </a>
   <a href="https://leetcode.cn/u/qxf-u/">
     <img src="https://img.shields.io/badge/LeetCode-qxf--u-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode qxf-u" />
