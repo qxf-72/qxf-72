@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/qxf-72?tab=repositories">
-    <img src="https://img.shields.io/github/stars/qxf-72?label=Stars&style=flat-square&logo=github&color=brightgreen"" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/qxf-72?label=Stars&style=flat-square&logo=github&color=4B5563" alt="GitHub stars" />
   </a>
   <a href="https://leetcode.cn/u/qxf-u/">
     <img src="https://img.shields.io/badge/LeetCode-qxf--u-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode qxf-u" />
@@ -25,5 +25,25 @@
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cmake,linux,docker,git,githubactions,mysql,redis&theme=light&perline=8" height="42" alt="C++, CMake, Linux, Docker, Git, GitHub Actions, MySQL, and Redis" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://go-skill-icons.vercel.app/api/icons?i=cpp,cmake,linux,docker,git,githubactions,mysql,redis&theme=dark&perline=8"
+    />
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cmake,linux,docker,git,githubactions,mysql,redis&theme=light&perline=8"
+      height="42"
+      alt="C++, CMake, Linux, Docker, Git, GitHub Actions, MySQL, and Redis"
+    />
+  </picture>
+</p>
+
+<h2 align="center">📈 Contributions</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+    <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph" />
+  </picture>
 </p>
