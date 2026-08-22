@@ -31,7 +31,7 @@
       srcset="https://go-skill-icons.vercel.app/api/icons?i=cpp,cmake,linux,docker,git,githubactions,mysql,redis&theme=dark&perline=8"
     />
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cmake,linux,docker,git,githubactions,mysql,redis&theme=light&perline=8"
+      src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cmake,linux,docker,git,githubactions,mysql,redis&theme=dark&perline=8"
       height="42"
       alt="C++, CMake, Linux, Docker, Git, GitHub Actions, MySQL, and Redis"
     />
