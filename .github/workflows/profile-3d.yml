@@ -18,6 +18,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Rename unclassified contributions
+        shell: bash
+        run: |
+          find profile-3d-contrib -type f -name '*.svg' -exec sed -i \
+            -e 's/>other</>Docs</g' \
+            -e 's/<title>other /<title>Docs /g' {} +
       - name: Commit & Push
         run: |
           git config user.name github-actions
