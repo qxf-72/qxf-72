@@ -23,7 +23,8 @@ jobs:
         run: |
           find profile-3d-contrib -type f -name '*.svg' -exec sed -i \
             -e 's/>other</>Docs</g' \
-            -e 's/<title>other /<title>Docs /g' {} +
+            -e 's/<title>other /<title>Docs /g' \
+            -e 's/#444444/#4F75C2/g' {} +
       - name: Commit & Push
         run: |
           git config user.name github-actions
