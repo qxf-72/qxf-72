@@ -28,10 +28,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://go-skill-icons.vercel.app/api/icons?i=cpp,cmake,linux,docker,git,githubactions,mysql,redis&theme=dark&perline=8"
+      srcset="https://go-skill-icons.vercel.app/api/icons?i=cpp%2Ccmake%2Clinux%2Cdocker%2Cgit%2Cgithubactions%2Cmysql%2Credis&theme=dark&perline=8"
     />
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cmake,linux,docker,git,githubactions,mysql,redis&theme=light&perline=8"
+      src="https://go-skill-icons.vercel.app/api/icons?i=cpp%2Ccmake%2Clinux%2Cdocker%2Cgit%2Cgithubactions%2Cmysql%2Credis&theme=light&perline=8"
       height="42"
       alt="C++, CMake, Linux, Docker, Git, GitHub Actions, MySQL, and Redis"
     />
