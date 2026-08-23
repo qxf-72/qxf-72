@@ -1,0 +1,41 @@
+name: Generate contribution snake
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/snake.yml"
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+
+      - name: Generate light and dark contribution snakes
+        uses: Platane/snk/svg-only@a69d1dbca7a94c2ef0edf10dcd9e19982d74dd39 # v3.3.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-snake.svg?palette=github-light&color_snake=#2EA043
+            assets/github-snake-dark.svg?palette=github-dark&color_snake=#39D353
+
+      - name: Commit generated files
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-snake.svg assets/github-snake-dark.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: update contribution snake"
+          git push

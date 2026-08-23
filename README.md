@@ -38,12 +38,12 @@
   </picture>
 </p>
 
-<h2 align="center">📈 Contributions</h2>
+<h2 align="center">🐍 Contributions</h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg?v=docs" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg?v=docs" />
-    <img src="./profile-3d-contrib/profile-green-animate.svg?v=docs" alt="3D contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img src="./assets/github-snake.svg" alt="GitHub contribution snake animation" />
   </picture>
 </p>
