@@ -1,15 +1,15 @@
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Construction%20Worker%20Medium-Light%20Skin%20Tone.png" alt="Construction Worker" width="54" height="54" />
-  Hi, I'm Felix Qiu 👋
+  🎮 Hi, I'm Felix Qiu 👋
 </h1>
 
 <p align="center">
-  <strong>C++ / Linux Backend Developer</strong>
+  <strong>Game Backend Developer · Skynet / Lua</strong>
 </p>
 
 <p align="center">
-  Building performance-oriented backend systems with modern C++ on Linux.
+  Building game backend services with Skynet and Lua, backed by Redis and MongoDB.<br />
+  Continuing to explore modern C++, Linux systems programming, and MySQL in my spare time.
 </p>
 
 <p align="center">
@@ -28,12 +28,12 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://go-skill-icons.vercel.app/api/icons?i=cpp%2Ccmake%2Clinux%2Cdocker%2Cgit%2Cgithubactions%2Cmysql%2Credis&theme=dark&perline=8"
+      srcset="https://go-skill-icons.vercel.app/api/icons?i=cpp%2Clua%2Ccmake%2Clinux%2Credis%2Cmongodb%2Cmysql%2Cdocker%2Cgit&theme=dark&perline=9"
     />
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=cpp%2Ccmake%2Clinux%2Cdocker%2Cgit%2Cgithubactions%2Cmysql%2Credis&theme=light&perline=8"
+      src="https://go-skill-icons.vercel.app/api/icons?i=cpp%2Clua%2Ccmake%2Clinux%2Credis%2Cmongodb%2Cmysql%2Cdocker%2Cgit&theme=light&perline=9"
       height="42"
-      alt="C++, CMake, Linux, Docker, Git, GitHub Actions, MySQL, and Redis"
+      alt="C++, Lua, CMake, Linux, Redis, MongoDB, MySQL, Docker, and Git"
     />
   </picture>
 </p>
