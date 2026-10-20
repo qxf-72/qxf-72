@@ -1,15 +1,15 @@
 
 <h1 align="center">
-  🎮 Hi, I'm Felix Qiu 👋
+  Hi, I'm Felix Qiu 👋
 </h1>
 
 <p align="center">
-  <strong>Game Backend Developer · Skynet / Lua</strong>
+  <strong>Game Backend Developer · Systems Programming Enthusiast</strong>
 </p>
 
 <p align="center">
-  Building game backend services with Skynet and Lua, backed by Redis and MongoDB.<br />
-  Continuing to explore modern C++, Linux systems programming, and MySQL in my spare time.
+  Building game backend services with Skynet, Lua, MongoDB, and Redis.<br />
+  Exploring modern C++, Linux systems programming, networking, concurrency, and backend architecture.
 </p>
 
 <p align="center">
